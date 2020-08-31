@@ -1,3 +1,6 @@
+<b>Monsters Rolodex React App.
+Check out demo at: https://maverickcro.github.io/monsters/ </b>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
