@@ -1,4 +1,5 @@
-<b>Monsters Rolodex React App.
+<b>Monsters Rolodex App. 
+Technologies used: HTML, CSS, JavaScript, React.
 Check out demo at: https://maverickcro.github.io/monsters/ </b>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
